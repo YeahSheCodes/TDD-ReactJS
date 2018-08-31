@@ -370,17 +370,17 @@ Create a <ul> and inside it loop (in this case we can use a simple .map method) 
     export default UserDetails;
 
 
-    #### Review the requirements
+#### Review the requirements
 
-    Finally review the requirements, make sure you have met them. Then commit the code, push it up to the branch, create your pull request and complete your feature.
+Finally review the requirements, make sure you have met them. Then commit the code, push it up to the branch, create your pull request and complete your feature.
 
 
-    ## TODO
+## TODO
 
-    1. Inversion of control examples
-    1. Dependency injection examples
-    1. Mocking examples
-    1. Integration vs Unit Tests
+1. Inversion of control examples
+1. Dependency injection examples
+1. Mocking examples
+1. Integration vs Unit Tests
 
 
 
