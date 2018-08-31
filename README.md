@@ -1,6 +1,6 @@
 (Beta release: Still a work in progress.)
 
-http://www.yeahshecodes.com
+[http://www.yeahshecodes.com](http://www.yeahshecodes.com)
 
 ## Steps for this demo TDD project
 
@@ -23,9 +23,16 @@ Add enzyme to test for html elements in the components
 1. yarn add enzyme 
 1. yarn add enzyme-adapter-react-16
 
+### Documentation links for Jest & Enzyme
+
+Jest documentation:
+
+[https://jestjs.io/docs/en/getting-started.html](https://jestjs.io/docs/en/getting-started.html)
+
 Also review the documentation for information on how to create enzyme tests:
 
-https://airbnb.io/enzyme/
+[https://airbnb.io/enzyme/](https://airbnb.io/enzyme/)
+
 
 # Part 1 - A simple hello world test
 
