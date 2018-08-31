@@ -325,7 +325,7 @@ Make note of the steps you have to go through to make the tests pass:
 
 1. Create a UserDetails component
 1. Use the props variable details to retrieve the user details list and loop over
-1. Create a <ul> and inside it loop (in this case we can use a simple .map method) and generate the <li> elements displaying the name and email.
+1. Create a ul and inside it loop (in this case we can use a simple .map method) and generate the li elements displaying the name and email.
 
 Start writing the code:
 
@@ -351,7 +351,7 @@ Remember to add the import to your test file so you can start seeing your tests 
 Step 2
 
 Use the props variable details to retrieve the user details list and loop over
-Create a "<ul>" and inside it loop (in this case we can use a simple .map method) and generate the "<li>" elements displaying the name and email.
+Create a "ul" and inside it loop (in this case we can use a simple .map method) and generate the "li" elements displaying the name and email.
 
     import React from "react";
 
