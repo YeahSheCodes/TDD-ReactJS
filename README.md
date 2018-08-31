@@ -1,3 +1,7 @@
+(Beta release: Still a work in progress.)
+
+http://www.yeahshecodes.com
+
 ## Steps for this demo TDD project
 
 1. npx create-react-app my-app
